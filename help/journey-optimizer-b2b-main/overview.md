@@ -2,16 +2,16 @@
 title: '[!DNL Journey Optimizer B2B Edition] 教學課程'
 description: 觀看 [!DNL Journey Optimizer B2B Edition]的教學課程影片。 讓您更瞭解如何協調帳戶和購買團體歷程等。
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
+source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 2%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # [!DNL Journey Optimizer B2B Edition] 教學課程
 
-瞭解如何充分利用[!DNL Journey Optimizer B2B Edition]。 使用內建的創作AI和領先業界的自動化功能，協調帳戶和購買群組歷程，以最大化特定產品的需求。
+了解如何充分利用 [!DNL Journey Optimizer B2B Edition]。使用內建的生成式 AI 和業界領先的自動化功能，協調帳戶與購買群組歷程，最大限度地提高對特定方案的需求。
 
 >[!NOTE]
 >
@@ -19,14 +19,20 @@ ht-degree: 2%
 
 ## 新增功能 {#whats-new}
 
-* [購買群組總覽](/help/buying-groups/buying-groups-overview.md)
-  _瞭解購買群組的所有相關資訊，以及如何利用這些群組。_
+* [帳戶歷程簡介](/help/account-journeys/introducing-account-journeys.md)
+  _瞭解所有關於帳戶歷程以及如何使用它們來吸引您的目標對象。_
 
-* [建立購買群組](/help/buying-groups/create-a-buying-group.md)
-  _瞭解如何使用帳戶對象、角色範本及解決方案興趣，來建立購買群組。_
+* [建立帳戶歷程](/help/account-journeys/create-an-account-journey.md)
+  _瞭解如何使用帳戶對象、動作節點、接聽節點和分割路徑節點來建立帳戶歷程。_
 
-* [方案興趣](/help/buying-groups/solution-interest.md)
-  _瞭解購買群組解決方案興趣，以及建立購買群組時如何設定/使用它們。_
+* [動作節點](/help/account-journeys/action-node.md)
+  _瞭解動作節點，以及如何在建立帳戶歷程時設定這些節點。_
+
+* [接聽節點](/help/account-journeys/listen-node.md)
+  _瞭解監聽節點，以及如何在建立帳戶歷程時設定這些節點。_
+
+* [分割帳戶歷程](/help/account-journeys/split-account-journey.md)
+  _瞭解分割/合併路徑節點，以及如何在建立帳戶歷程時設定它們。_
 
 ## 最受歡迎影片 {#most-popular-videos}
 
