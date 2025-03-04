@@ -2,10 +2,10 @@
 title: '[!DNL Journey Optimizer B2B Edition] 教學課程'
 description: 觀看 [!DNL Journey Optimizer B2B Edition]的教學課程影片。 讓您更瞭解如何協調帳戶和購買團體歷程等。
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ ht-degree: 17%
 
 ## 新增功能 {#whats-new}
 
-* [帳戶歷程簡介](/help/account-journeys/introducing-account-journeys.md)
-  _瞭解所有關於帳戶歷程以及如何使用它們來吸引您的目標對象。_
+* [購買群組階段](/help/buying-groups/buying-group-stages.md)
+  _瞭解如何在單一階段模型中建立多個購買群組生命週期階段，並指定轉換規則。_
 
-* [建立帳戶歷程](/help/account-journeys/create-an-account-journey.md)
-  _瞭解如何使用帳戶對象、動作節點、接聽節點和分割路徑節點來建立帳戶歷程。_
+* [接聽AEP活動](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _在您的帳戶歷程中定義並使用任何體驗事件。_
 
-* [動作節點](/help/account-journeys/journey-nodes/action-node.md)
-  _瞭解動作節點，以及如何在建立帳戶歷程時設定這些節點。_
-
-* [接聽節點](/help/account-journeys/journey-nodes/listen-node.md)
-  _瞭解監聽節點，以及如何在建立帳戶歷程時設定這些節點。_
-
-* [分割帳戶歷程](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _瞭解分割/合併路徑節點，以及如何在建立帳戶歷程時設定它們。_
+* [付費媒體協調流程](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _瞭解如何使用歷程將人員移至外部受眾，然後可以推送至AEP目的地目錄中的任何支援付費媒體目的地。_
 
 ## 最受歡迎影片 {#most-popular-videos}
 
