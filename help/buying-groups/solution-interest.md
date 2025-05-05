@@ -20,4 +20,4 @@ ht-degree: 5%
 
 瞭解購買團體解決方案興趣，以及如何在建立購買團體時設定/使用它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450124/?learn=on&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用帳戶對象、角色範本和解決方案興趣來建立購買群組。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451772/?learn=on&captions=chi_hant)

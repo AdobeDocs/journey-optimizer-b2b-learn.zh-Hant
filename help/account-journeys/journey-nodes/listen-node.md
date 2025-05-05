@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解監聽節點，以及如何在建立帳戶歷程時設定這些節點。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443245/?learn=on&enablevpops&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解帳戶歷程以及如何使用它們來吸引目標受眾。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443218/?learn=on&enablevpops&captions=chi_hant)

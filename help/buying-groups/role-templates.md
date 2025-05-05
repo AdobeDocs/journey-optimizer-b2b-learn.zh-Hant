@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解購買群組角色範本，以及建立購買群組時如何設定/使用範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453312/?learn=on&captions=chi_hant)

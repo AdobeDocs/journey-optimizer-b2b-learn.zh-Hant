@@ -22,4 +22,4 @@ ht-degree: 4%
 
 使用此功能，您可以在單一階段模型中建立多個購買群組生命週期階段，並指定轉換規則。 透過設定這些規則，您將可完全控制購買群組如何從一個階段移至另一個階段。 接著，您就可以在歷程中自動轉換階段，將這些功能結合為一個強大的流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448705/?learn=on&enablevpops&captions=chi_hant)

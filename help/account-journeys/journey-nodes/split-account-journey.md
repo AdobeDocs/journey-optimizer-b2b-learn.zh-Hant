@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解分割/合併路徑節點，以及如何在建立帳戶歷程時設定它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443267/?learn=on&enablevpops&captions=chi_hant)

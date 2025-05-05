@@ -30,4 +30,4 @@ ht-degree: 0%
 
 總而言之，AJO B2B中的帳戶清單是管理和協調以帳戶為基礎的行銷和客戶參與活動的基本元素。 它們可讓使用者組織、鎖定關鍵客戶的行銷活動，並加以個人化，推動有意義的互動和關係。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448660/?learn=on&enablevpops&captions=chi_hant)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解如何使用帳戶對象、動作節點、監聽節點和分割路徑節點來建立帳戶歷程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443230/?learn=on&enablevpops&captions=chi_hant)
