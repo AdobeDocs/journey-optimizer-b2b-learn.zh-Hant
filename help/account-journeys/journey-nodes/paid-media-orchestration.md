@@ -30,4 +30,4 @@ ht-degree: 0%
 
 在本影片中，我們將示範使用歷程將人們移至外部受眾，然後您可以推送至AEP目的地目錄中的任何支援付費媒體目的地。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448683/?learn=on&enablevpops&captions=chi_hant)

@@ -28,4 +28,4 @@ ht-degree: 2%
 
 總而言之，[!DNL Journey Optimizer B2B Edition]中的帳戶清單是管理和協調以帳戶為基礎的行銷和客戶參與活動的基礎元素。 它們可讓您組織、鎖定關鍵客戶的行銷活動，並加以個人化，推動有意義的互動和關係。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448660/?learn=on&enablevpops&captions=chi_hant)
