@@ -2,11 +2,14 @@
 cloud: Experience Cloud
 solution: Journey Optimizer B2B Edition
 product: experience cloud
+landing-page-name: journey-optimizer-b2b
+landing-page-breadcrumb-title: Journey Optimizer B2B
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.en
 feature-set: Journey Optimizer B2B Edition
-source-git-commit: fc28b303dc9bb0cd6aa9d3c2fb150b2250d860b6
+index: true
+source-git-commit: af95520f356516a0e381763b1f2a4ff8b783396b
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
