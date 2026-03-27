@@ -4,7 +4,7 @@ solution: Journey Optimizer B2B Edition
 product: experience cloud
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.en
+git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.zh-Hant
 feature-set: Journey Optimizer B2B Edition
 source-git-commit: fc28b303dc9bb0cd6aa9d3c2fb150b2250d860b6
 workflow-type: tm+mt
