@@ -20,4 +20,4 @@ ht-degree: 12%
 
 瞭解動作節點，以及如何在建立帳戶歷程時設定它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443256/?captions=chi_hant&learn=on&enablevpops)

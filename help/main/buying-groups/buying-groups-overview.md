@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解有關購買群組以及如何利用它們的所有資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452952/?captions=chi_hant&learn=on)
