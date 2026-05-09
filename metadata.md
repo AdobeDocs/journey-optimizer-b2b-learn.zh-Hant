@@ -8,7 +8,7 @@ landing-page-name: journey-optimizer-b2b
 landing-page-breadcrumb-title: Journey Optimizer B2B
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.en
+git-repo: https://github.com/AdobeDocs/journey-optimizer-b2b-learn.zh-Hant
 feature-set: Journey Optimizer B2B Edition
 index: true
 source-git-commit: 92bd6d36aaff9f2dd3a15be11eae57b432d26341
