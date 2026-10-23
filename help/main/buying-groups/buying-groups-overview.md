@@ -34,4 +34,4 @@ ht-degree: 34%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
+如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。

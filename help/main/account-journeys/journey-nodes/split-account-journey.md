@@ -34,4 +34,4 @@ ht-degree: 5%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-如需詳細資訊，請參閱使用手冊中的&#x200B;_[分割與合併路徑](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。
+如需詳細資訊，請參閱使用手冊中的&#x200B;_[分割與合併路徑](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。

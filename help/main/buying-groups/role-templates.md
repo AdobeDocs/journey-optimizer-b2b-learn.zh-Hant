@@ -39,4 +39,4 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-如需詳細資訊，請參閱使用手冊中的[購買群組角色範本](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
+如需詳細資訊，請參閱使用手冊中的[購買群組角色範本](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
