@@ -37,6 +37,6 @@ ht-degree: 3%
 
 瞭解購買群組角色範本，以及建立購買群組時如何設定/使用範本。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453312/?captions=chi_hant&learn=on)
 
 如需詳細資訊，請參閱使用手冊中的[購買群組角色範本](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
