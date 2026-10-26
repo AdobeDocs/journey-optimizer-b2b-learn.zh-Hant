@@ -53,4 +53,4 @@ ht-degree: 4%
 * 使用完整度分數設定來設定每個角色所需的成員數目。
 * 發佈範本，使其狀態變更為「即時」，以供解決方案興趣使用。
 
-如需詳細資訊，請參閱使用手冊中的[購買群組角色範本](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。
+如需詳細資訊，請參閱使用手冊中的[購買群組角色範本](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates)。

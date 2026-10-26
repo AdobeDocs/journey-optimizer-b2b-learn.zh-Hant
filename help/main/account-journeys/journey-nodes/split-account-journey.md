@@ -49,4 +49,4 @@ ht-degree: 0%
 * 使用人員屬性、帳戶 — 人員關係屬性、購買群組成員資格、自訂物件以及事件歷史記錄（包含回顧視窗、頻率和不活動篩選）的人員分割。
 * 瞭解自動關閉分割路徑節點如何讓人員返回帳戶歷程。
 
-如需詳細資訊，請參閱使用手冊中的&#x200B;_[分割與合併路徑](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。
+如需詳細資訊，請參閱使用手冊中的&#x200B;_[分割與合併路徑](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_。
