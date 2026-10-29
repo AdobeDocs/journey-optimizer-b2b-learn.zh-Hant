@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]中的購買群組概觀
+title: 在[!DNL Journey Optimizer B2B Edition]中購買群組
 description: 瞭解如何在Adobe [!DNL Journey Optimizer B2B Edition]中建立、管理和評估購買群組，從角色範本和解決方案興趣到整備和角色深入分析。
 keywords: 購買群組， Adobe [!DNL Journey Optimizer B2B Edition]，帳戶型行銷， B2B購買群組，角色範本，解決方案興趣，帳戶對象，購買群組階段，購買群組完整性，角色深入分析， B2B行銷自動化
 feature: Buying Groups
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]中的購買群組概觀
+# 在[!DNL Journey Optimizer B2B Edition]中購買群組
 
 瞭解購買群組如何在[!DNL Adobe Journey Optimizer B2B Edition]中組織人員以做出B2B購買決定。 本影片逐步解說您需要的元件、如何準備購買群組建立工作，以及如何評估整備程度。
 
 此教學課程適用於使用[!DNL Journey Optimizer B2B Edition]進行帳戶式行銷，且想要鎖定適當的利害關係人並限定帳戶的行銷人員和管理員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452952/?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
 了解做法：
 
@@ -48,4 +48,4 @@ ht-degree: 1%
 * 檢閱並更新購買群組成員。 手動更新優先於歷程動作和系統作業。
 * 使用角色深入分析來比較不同角色的贏取和參與，並依日期範圍篩選。
 
-如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
+如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
