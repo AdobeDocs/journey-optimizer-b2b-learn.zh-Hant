@@ -35,7 +35,7 @@ ht-degree: 3%
 
 此教學課程適用於使用[!DNL Journey Optimizer B2B Edition]為不同區段和購買群組成員個人化帳戶型行銷歷程的行銷專業人員和歷程設計人員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443267/?captions=chi_hant&learn=on&enablevpops)
 
 了解做法：
 

@@ -35,7 +35,7 @@ ht-degree: 1%
 
 此教學課程適用於使用[!DNL Journey Optimizer B2B Edition]進行帳戶式行銷，且想要鎖定適當的利害關係人並限定帳戶的行銷人員和管理員。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452952/?captions=chi_hant&learn=on&enablevpops)
 
 了解做法：
 
