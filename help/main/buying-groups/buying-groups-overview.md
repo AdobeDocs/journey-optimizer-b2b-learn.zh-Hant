@@ -48,4 +48,4 @@ ht-degree: 1%
 * 檢閱並更新購買群組成員。 手動更新優先於歷程動作和系統作業。
 * 使用角色深入分析來比較不同角色的贏取和參與，並依日期範圍篩選。
 
-如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
+如需詳細資訊，請參閱使用手冊中的&#x200B;_[購買群組](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_。
