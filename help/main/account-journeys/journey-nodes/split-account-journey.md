@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Journey Optimizer B2B Edition]中的分割與合併路徑
+title: 分割和合併路徑
 description: 瞭解如何在Adobe [!DNL Journey Optimizer B2B Edition]中分割及合併路徑，以依條件路由帳戶或人員、設定路徑優先順序及處理不相符的對象。
 keywords: 分割路徑，合併路徑， Adobe [!DNL Journey Optimizer B2B Edition]，帳戶歷程，歷程節點，帳戶型行銷， B2B歷程協調，購買群組整備，路徑條件，人員分割，事件歷史記錄篩選，歷程細分
 feature: Account Journeys
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Adobe [!DNL Journey Optimizer B2B Edition]中的分割與合併路徑
+# 分割和合併路徑
 
 瞭解如何使用Adobe [!DNL Journey Optimizer B2B Edition]中的分割和合併路徑節點，根據條件透過帳戶歷程路由帳戶或人員。 此影片說明帳戶和人員拆分、路徑優先順序、預設路徑和合併。
 
