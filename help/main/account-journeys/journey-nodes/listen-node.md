@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 相關文件
 
-如需支援的事件、設定步驟和逾時選項，請參閱使用手冊[&#128279;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}中的接聽事件。
+如需支援的事件、設定步驟和逾時選項，請參閱使用手冊[&#128279;](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}中的接聽事件。

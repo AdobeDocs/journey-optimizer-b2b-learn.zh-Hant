@@ -30,4 +30,4 @@ ht-degree: 1%
 
 ## 相關文件
 
-如需設定步驟以及支援的帳戶和人員動作，請參閱使用手冊中的[採取動作](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}。
+如需設定步驟以及支援的帳戶和人員動作，請參閱使用手冊中的[採取動作](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}。
