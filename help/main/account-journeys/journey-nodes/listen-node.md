@@ -18,7 +18,7 @@ ht-degree: 1%
 
 使用[!DNL Adobe Journey Optimizer B2B Edition]中的[!UICONTROL 接聽事件]節點，在事件發生時推進歷程。 比較帳戶和人員事件、定義比對條件，並設定逾時以控制歷程等待的時間。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443245/?captions=chi_hant&quality=12&learn=on)
 
 ## 接聽節點要點
 

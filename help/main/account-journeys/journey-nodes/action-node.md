@@ -18,7 +18,7 @@ ht-degree: 1%
 
 使用[!DNL Adobe Journey Optimizer B2B Edition]中的動作節點來定義歷程中帳戶或人員的動作。 比較帳戶動作和人員動作，並瞭解每種歷程型別支援哪些動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443256/?captions=chi_hant&quality=12&learn=on)
 
 ## 動作節點要點
 

@@ -18,7 +18,7 @@ ht-degree: 3%
 
 發生相符活動時，使用[!DNL Adobe Experience Platform]體驗事件在[!DNL Adobe Journey Optimizer B2B Edition]中推進帳戶歷程。 瞭解管理員如何設定事件型別和欄位，以及行銷人員如何在[!UICONTROL 接聽事件]節點中使用這些型別和欄位。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448694/?captions=chi_hant&quality=12&learn=on)
 
 ## 體驗事件要點
 
